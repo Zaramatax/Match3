@@ -1,0 +1,16 @@
+﻿  Game.cpp
+  GameController.cpp
+  GameModel.cpp
+..\src\Match3Game\GameModel.cpp(34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\src\Match3Game\GameModel.cpp(35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\src\Match3Game\GameModel.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  GameView.cpp
+..\src\Match3Game\GameView.cpp(38): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  InputProvider.cpp
+  Generating code
+  348 of 671 functions (51.9%) were compiled, the rest were copied from previous compilation.
+    53 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Worktest.vcxproj -> C:\Users\Xardv\Documents\C++ Game Developer Test 2015-11-05\vs2012 base project\bin\Worktest.exe
+  Worktest.vcxproj -> C:\Users\Xardv\Documents\C++ Game Developer Test 2015-11-05\vs2012 base project\bin\Worktest.pdb (Full PDB)
